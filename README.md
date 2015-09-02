@@ -1,4 +1,4 @@
 Brainfuck-Java-Interpreter
 ==========================
 
-A Small Java Interpreter for Brainfuck.
+A Small Brainfuck Interpreter written in Java.
